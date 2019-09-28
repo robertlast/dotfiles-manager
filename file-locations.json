@@ -1,0 +1,13 @@
+{
+    "bash": ".bashrc",
+    "vim": ".vimrc",
+    "emacs": ".emacs",
+    "vscode": ".config/Code/User/settings.json",
+    "x11": ".Xresources",
+    "ksh": ".kshrc",
+    "tcsh": ".tcshrc",
+    "blackbox": [".blackbox/", ".blackboxrc", ".bbkeysrc"],
+    "fluxbox": ".fluxbox/",
+    "gkrellm": ".gkrellm",
+    "mutt": ".muttrc"
+}
