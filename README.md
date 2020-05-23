@@ -12,7 +12,7 @@ Usage
     -v  Verbose mode.
     
     
-      ./dotfiles-install.sh  [-i <dotfiles-path>] [-v]
+    ./dotfiles-install.sh  [-i <dotfiles-path>] [-v]
 
     -i  Source directory containing dotfiles.
     -v  Verbose mode.
