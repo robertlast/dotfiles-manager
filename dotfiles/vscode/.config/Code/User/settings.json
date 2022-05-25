@@ -1,8 +1,0 @@
-{
-    "svn.enableProposedApi": "product",
-    "terminal.integrated.fontFamily": "Monospace",
-    "window.titleBarStyle": "custom",
-    "autoDocstring.docstringFormat": "sphinx",
-    "explorer.confirmDragAndDrop": false,
-    "explorer.confirmDelete": false
-}
