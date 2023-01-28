@@ -5,7 +5,7 @@ usage () {
     $0  [-i <dotfiles-path>] [-v] []
 
     -i  Source directory containing dotfiles.
-    -y  Don't prompt.    
+    -y  Don't prompt (non-interactive mode).    
     -v  Verbose mode.
 
 HELP_USAGE

@@ -15,6 +15,7 @@ Usage
     ./dotfiles-install.sh  [-i <dotfiles-path>] [-v]
 
     -i  Source directory containing dotfiles.
+    -y  Don't prompt (non-interactive mode). 
     -v  Verbose mode.
 
 Dependencies
