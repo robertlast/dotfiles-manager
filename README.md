@@ -6,7 +6,7 @@ Usage
 
     ./dotfiles-collect.sh  [-i <config-file>] [-o <dotfiles-path>] [-f] [-v]
 
-    -i  JSON-formatted config file, contains the locations of dotfiles
+    -i  JSON-formatted config file, contains the locations of dotfiles.
     -o  Directory where dotfiles will be copied.
     -f  Existing files will be overwritten.
     -v  Verbose mode.
